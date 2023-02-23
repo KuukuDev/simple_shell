@@ -145,7 +145,7 @@ char *error_2_cd(char **args)
  * @args: An array of arguments passed to the command.
  *
  * Return: The error string.
- */B
+ */
 char *error_2_syntax(char **args)
 {
 	char *error, *hist_str;
